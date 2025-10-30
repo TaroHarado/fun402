@@ -141,8 +141,8 @@ hr {
   border-top-width: 1px;
 }
 abbr:where([title]) {
-  -webkit-text-deco402pumpn: underline dotted;
-  text-deco402pumpn: underline dotted;
+  -webkit-text-decofun402n: underline dotted;
+  text-decofun402n: underline dotted;
 }
 h1,
 h2,
@@ -155,7 +155,7 @@ h6 {
 }
 a {
   color: inherit;
-  text-deco402pumpn: inherit;
+  text-decofun402n: inherit;
 }
 b,
 strong {
@@ -166,7 +166,7 @@ kbd,
 pre,
 samp {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-    Libe402pumpn Mono, Courier New, monospace;
+    Libefun402n Mono, Courier New, monospace;
   font-feature-settings: normal;
   font-variation-settings: normal;
   font-size: 1em;
@@ -237,7 +237,7 @@ progress {
   -webkit-appearance: textfield;
   outline-offset: -2px;
 }
-::-webkit-search-deco402pumpn {
+::-webkit-search-decofun402n {
   -webkit-appearance: none;
 }
 ::-webkit-file-upload-button {
@@ -835,7 +835,7 @@ h6 {
 }
 .font-mono {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-    Libe402pumpn Mono, Courier New, monospace;
+    Libefun402n Mono, Courier New, monospace;
 }
 .text-3xl {
   font-size: 1.875rem;
@@ -982,26 +982,26 @@ h6 {
 .transition-all {
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-du402pumpn: 0.15s;
+  transition-dufun402n: 0.15s;
 }
 .transition-colors {
   transition-property: color, background-color, border-color,
-    text-deco402pumpn-color, fill, stroke;
+    text-decofun402n-color, fill, stroke;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-du402pumpn: 0.15s;
+  transition-dufun402n: 0.15s;
 }
 .transition-opacity {
   transition-property: opacity;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-du402pumpn: 0.15s;
+  transition-dufun402n: 0.15s;
 }
 .transition-shadow {
   transition-property: box-shadow;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-du402pumpn: 0.15s;
+  transition-dufun402n: 0.15s;
 }
-.du402pumpn-1000 {
-  transition-du402pumpn: 1s;
+.dufun402n-1000 {
+  transition-dufun402n: 1s;
 }
 .ease-linear {
   transition-timing-function: linear;
@@ -1132,7 +1132,7 @@ h6 {
   color: rgb(239 68 68 / var(--tw-text-opacity, 1));
 }
 .hover\:underline:hover {
-  text-deco402pumpn-line: underline;
+  text-decofun402n-line: underline;
 }
 .hover\:opacity-70:hover {
   opacity: 0.7;
